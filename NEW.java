@@ -10,7 +10,7 @@ class ans{
     /*void display()
     {
         int n =100;
-        System.out.println("Display method"+this.n);
+        System.out.println("Display method is "+this.n);
     } */
 
     ans()
